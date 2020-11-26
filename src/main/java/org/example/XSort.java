@@ -8,6 +8,13 @@ public abstract class XSort<T> {
     abstract boolean isLargerThan(T a, T b);
     abstract void printSortedList(List<T> list);
 
+    /**
+     * Make even more abstract - move away from List<>
+     *     Use:
+     *          getNextAscending():T
+     *          getNextDescending():T
+     */
+
     public void sort() {
         List<T> listA = getList();
         for (int i = 0; i < listA.size(); i++) {

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a18efc-4ab9-40d1-bf81-903c166e089f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntegerStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/XSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/XSorter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/XSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/XSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606414152011</updated>
       <workItem from="1606414154633" duration="658000" />
-      <workItem from="1606429686865" duration="4206000" />
+      <workItem from="1606429686865" duration="4490000" />
     </task>
     <servers />
   </component>
@@ -96,22 +88,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="363" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606433862189" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606434061898">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606434231975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434061898" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606434061898">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434231975" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606434231975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434061898" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606434061898">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434231975" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606434231975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434061898" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606434061898">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434231975" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606434231975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434061898" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434231975" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606430808867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
