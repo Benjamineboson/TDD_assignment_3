@@ -15,5 +15,8 @@ public class App
         System.out.println();
         StringStorage stringStorage = new StringStorage(Arrays.asList("Badsdsad","Zsdadisid","Kdsiandjsa","bdsadsa","adsfsdf","fffsadsad","ccccssadsad","AAaadsadsad"));
         stringStorage.sort();
+        System.out.println();
+        DoubleStorage doubleStorage = new DoubleStorage(new Double[]{5.0,11.0,1.0,0.5,99.5,0.1});
+        doubleStorage.sort();
     }
 }

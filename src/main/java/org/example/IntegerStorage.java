@@ -11,10 +11,6 @@ public class IntegerStorage extends XSort<Integer> {
         this.integerList = integerList;
     }
 
-    @Override
-    List<Integer> getList() {
-        return integerList;
-    }
 
     @Override
     boolean isLargerThan(Integer a, Integer b) {
@@ -22,9 +18,24 @@ public class IntegerStorage extends XSort<Integer> {
     }
 
     @Override
-    void printSortedList(List<Integer> list) {
-        for (Integer i:list) {
+    void printSortedContainer() {
+        for (Integer i:integerList) {
             System.out.print("["+i+"] ");
         }
+    }
+
+    @Override
+    Integer getContainerItem(int index) {
+        return integerList.get(index);
+    }
+
+    @Override
+    void setContainerItem(int index, Integer integer) {
+        integerList.set(index,integer);
+    }
+
+    @Override
+    int containerSize() {
+        return integerList.size();
     }
 }

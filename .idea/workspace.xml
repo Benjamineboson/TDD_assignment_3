@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a18efc-4ab9-40d1-bf81-903c166e089f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IntegerStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IntegerStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StringStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringStorage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/XSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/XSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606414152011</updated>
       <workItem from="1606414154633" duration="658000" />
-      <workItem from="1606429686865" duration="4490000" />
+      <workItem from="1606429686865" duration="4711000" />
+      <workItem from="1606482851740" duration="2434000" />
     </task>
     <servers />
   </component>
@@ -76,10 +81,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1606433715490">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1606487386287">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606433715490" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606487386287" />
     <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606430795430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -88,22 +93,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="363" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606433862189" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606434231975">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606487496491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434231975" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606434231975">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606487496491" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606487496491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434231975" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606434231975">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606487496491" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606487496491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434231975" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606434231975">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606487496491" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606487496491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606434231975" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1606487496491" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606430808867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

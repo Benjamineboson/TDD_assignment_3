@@ -4,28 +4,23 @@ import java.util.ArrayList;
 import java.util.List;
 
 public abstract class XSort<T> {
-    abstract List<T> getList();
     abstract boolean isLargerThan(T a, T b);
-    abstract void printSortedList(List<T> list);
+    abstract void printSortedContainer();
+    abstract T getContainerItem(int index);
+    abstract void setContainerItem(int index, T t);
+    abstract int containerSize();
 
-    /**
-     * Make even more abstract - move away from List<>
-     *     Use:
-     *          getNextAscending():T
-     *          getNextDescending():T
-     */
 
     public void sort() {
-        List<T> listA = getList();
-        for (int i = 0; i < listA.size(); i++) {
-            for (int j = listA.size() - 1; j > i; j--) {
-                if (isLargerThan(listA.get(i), listA.get(j))) {
-                    T temp = listA.get(j);
-                    listA.set(j, listA.get(i));
-                    listA.set(i, temp);
+        for (int i = 0; i < containerSize(); i++) {
+            for (int j = containerSize() - 1; j > i; j--) {
+                if (isLargerThan(getContainerItem(i), getContainerItem(j))) {
+                    T temp = getContainerItem(i);
+                    setContainerItem(i,getContainerItem(j));
+                    setContainerItem(j,temp);
                 }
             }
         }
-        printSortedList(listA);
+        printSortedContainer();
     }
 }
