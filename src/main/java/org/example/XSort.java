@@ -1,7 +1,5 @@
 package org.example;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public abstract class XSort<T> {
     abstract boolean isLargerThan(T a, T b);
